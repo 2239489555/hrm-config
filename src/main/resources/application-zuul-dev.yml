@@ -7,6 +7,10 @@ zuul:
   routes:
     sysmanage.serviceId: hrm-sysmanage #这是调用满足条件的服务名，注意要小写
     sysmanage.path: /sysmanage/** #这是所有路径前的通配
+    common.serviceId: hrm-common #这是调用满足条件的服务名，注意要小写
+    common.path: /common/** #这是所有路径前的通配
+    course.serviceId: hrm-course #这是调用满足条件的服务名，注意要小写
+    course.path: /course/** #这是所有路径前的通配
   ignored-services: "*" #用*来通配符，忽略从9527端口通过服务名来调用
   prefix: "/services" #这是所有路径的前缀
 retryable: true #是否重试
