@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d250eb1c-c22c-486f-9e44-8030dee11a7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-common-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-zuul-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-zuul-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="d250eb1c-c22c-486f-9e44-8030dee11a7d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <workItem from="1581504666838" duration="286000" />
       <workItem from="1581672399507" duration="321000" />
       <workItem from="1581680199474" duration="88000" />
-      <workItem from="1581931984933" duration="306000" />
+      <workItem from="1581931984933" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="sysmanage配置">
       <created>1581672613575</created>
@@ -69,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581680257808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="common course">
+      <created>1581932341988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581932341988</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,24 +80,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sysmanage配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="sysmanage配置" />
+    <MESSAGE value="common course" />
+    <option name="LAST_COMMIT_MESSAGE" value="common course" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581932188741">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="460" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581932188741" />
-    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1581680256846">
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1581932340907">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581680256846" />
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581932340907" />
     <state x="635" y="308" width="276" height="217" key="Github.ShareDialog" timestamp="1581504765612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="635" y="308" width="276" height="217" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1581504765612" />
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1581680262614">
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1581932345048">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581680262614" />
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581932345048" />
   </component>
 </project>

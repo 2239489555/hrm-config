@@ -8,6 +8,10 @@ spring:
     url: jdbc:mysql://localhost:3306/hrm-course?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
     username: root
     password: cw99626!
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 127.0.0.1:9300 #9200是图形界面端,9300代码端
 mybatis-plus:
   mapper-locations: classpath:com/fx/hrm/mapper/*Mapper.xml
   type-aliases-package: com.fx.hrm.domain,com.fx.hrm.query
