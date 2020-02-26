@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d250eb1c-c22c-486f-9e44-8030dee11a7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-page-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-zuul-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-zuul-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hrm-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -55,7 +53,8 @@
       <workItem from="1581680199474" duration="88000" />
       <workItem from="1581931984933" duration="385000" />
       <workItem from="1582190010077" duration="159000" />
-      <workItem from="1582542796098" duration="528000" />
+      <workItem from="1582542796098" duration="657000" />
+      <workItem from="1582707252714" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="sysmanage配置">
       <created>1581672613575</created>
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582190148269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="common course">
+      <created>1582543402561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582543402561</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +107,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="460" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581932188741" />
-    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1582190147318">
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1582543401226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1582190147318" />
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1582543401226" />
     <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1582190168152">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -113,9 +119,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="635" y="308" width="276" height="217" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1581504765612" />
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1582190152586">
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1582543405787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1582190152586" />
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1582543405787" />
   </component>
 </project>

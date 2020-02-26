@@ -11,3 +11,10 @@ spring:
 mybatis-plus:
   mapper-locations: classpath:com/fx/hrm/mapper/*Mapper.xml
   type-aliases-package: com.fx.hrm.domain,com.fx.hrm.query
+
+rabbitmq:
+  host: 127.0.0.1
+  port: 5672
+  username: guest
+  password: guest
+  virtualHost: /
