@@ -38,6 +38,11 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea-project\hrm-config\src\main\resources" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,7 +59,7 @@
       <workItem from="1581931984933" duration="385000" />
       <workItem from="1582190010077" duration="159000" />
       <workItem from="1582542796098" duration="657000" />
-      <workItem from="1582707252714" duration="480000" />
+      <workItem from="1582707252714" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="sysmanage配置">
       <created>1581672613575</created>
@@ -91,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582543402561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="page agent">
+      <created>1582707887796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582707887796</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,17 +112,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sysmanage配置" />
     <MESSAGE value="common course" />
-    <option name="LAST_COMMIT_MESSAGE" value="common course" />
+    <MESSAGE value="page agent" />
+    <option name="LAST_COMMIT_MESSAGE" value="page agent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581932188741">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="460" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581932188741" />
-    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1582543401226">
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1582707910008">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1582543401226" />
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1582707910008" />
     <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1582190168152">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -119,9 +132,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="635" y="308" width="276" height="217" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1581504765612" />
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1582543405787">
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2" timestamp="1582707927467">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1582543405787" />
+    <state x="361" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1582707927467" />
   </component>
 </project>

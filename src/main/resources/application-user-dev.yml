@@ -1,0 +1,13 @@
+server:
+  port: 2050
+spring:
+  application:
+    name: hrm-user
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/hrm-user?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: cw99626!
+mybatis-plus:
+  mapper-locations: classpath:com/fx/hrm/mapper/*Mapper.xml
+  type-aliases-package: com.fx.hrm.domain,com.fx.hrm.query
